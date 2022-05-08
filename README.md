@@ -39,9 +39,10 @@ Hello. My name is ***Jetniphan Pukkham***, everyone called me Jaay. I'm studying
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniphan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniphan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
+  
 <p align="center">
 <a href="https://jeniphan.github.io"><img src="https://img.shields.io/badge/-jeniphan.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jetniphan-pukkham-957671212/"><img src="https://img.shields.io/badge/-Jetniphan%20Pukkham-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
