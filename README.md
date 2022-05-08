@@ -1,6 +1,6 @@
 ![github-header-image (1)](https://user-images.githubusercontent.com/34912803/167289495-ced15c35-38f2-46b9-87d5-f87a9c24f421.png)
 
-### Hi there 👋 I'am Jetniphan.
+### 👋 Hi there. I'am Jetniphan.
 Hello. My name is ***Jetniphan Pukkham***, everyone called me Jaay. I'm studying at King Mongkut's University of Technology Thonburi. My major was Electronic and Telecommunication Engineering. I'm interested about Web Development.
 
 ### 👨🏻‍💻 &nbsp;About Me
