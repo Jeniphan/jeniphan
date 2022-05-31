@@ -5,7 +5,7 @@ Hello. My name is ***Jetniphan Pukkham***, everyone called me Jaay. I'm studying
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently studying at King Mongkut's University of Technology Thonburi.
+- 🔭 I’m currently working at Karnkanok Property company limited.
 - 🌱 I’m currently learning NextJS, Angular, NestJS.
 - 👯 I’m live in Chiang mai,Thailand.
 - 🤔 I’m interested in full stack developer.
