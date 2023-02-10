@@ -8,7 +8,7 @@ Hello. My name is ***Jetniphan Pukkham***, everyone called me Jaay. I'm studying
 - 🔭 I’m currently working Full stack at Logicton Co.,LTD.
 - 🌱 I’m currently learning NextJS, Angular, NestJS.
 - 👯 I’m live in Chiang mai,Thailand.
-- 🤔 I’m interested in full stack developer.
+- 🤔 I’m interested in NuxtJS C#.
 - 📫 How to reach me on Facebook: Jeniphan Pukkham
 
 ### 🛠 &nbsp;Tech Stack
